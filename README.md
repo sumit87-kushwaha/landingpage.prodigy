@@ -1,1 +1,1 @@
-# landingpage.prodigy
+# landingpage.octanet
